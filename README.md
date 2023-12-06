@@ -1,5 +1,5 @@
 # slme-strings
-GUI tool to identify missing files and examine the binaries for certain strings.
+GUI tool to identify missing files and examine file binaries for certain strings.
 
 ## How to Use
 1. Input desired strings delimited by whitespaces
